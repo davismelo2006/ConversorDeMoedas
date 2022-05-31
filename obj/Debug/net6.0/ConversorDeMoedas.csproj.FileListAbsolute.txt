@@ -1,0 +1,17 @@
+C:\Users\LUIZ\Documents\c#\projetos-c#\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.csproj.AssemblyReference.cache
+C:\Users\LUIZ\Documents\c#\projetos-c#\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUIZ\Documents\c#\projetos-c#\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.AssemblyInfoInputs.cache
+C:\Users\LUIZ\Documents\c#\projetos-c#\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.AssemblyInfo.cs
+C:\Users\LUIZ\Documents\c#\projetos-c#\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.csproj.CoreCompileInputs.cache
+C:\Users\LUIZ\Documents\c#\projetos-c#\ConversorDeMoedas\bin\Debug\net6.0\ConversorDeMoedas.exe
+C:\Users\LUIZ\Documents\c#\projetos-c#\ConversorDeMoedas\bin\Debug\net6.0\ConversorDeMoedas.deps.json
+C:\Users\LUIZ\Documents\c#\projetos-c#\ConversorDeMoedas\bin\Debug\net6.0\ConversorDeMoedas.runtimeconfig.json
+C:\Users\LUIZ\Documents\c#\projetos-c#\ConversorDeMoedas\bin\Debug\net6.0\ConversorDeMoedas.dll
+C:\Users\LUIZ\Documents\c#\projetos-c#\ConversorDeMoedas\bin\Debug\net6.0\ConversorDeMoedas.pdb
+C:\Users\LUIZ\Documents\c#\projetos-c#\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.dll
+C:\Users\LUIZ\Documents\c#\projetos-c#\ConversorDeMoedas\obj\Debug\net6.0\refint\ConversorDeMoedas.dll
+C:\Users\LUIZ\Documents\c#\projetos-c#\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.pdb
+C:\Users\LUIZ\Documents\c#\projetos-c#\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.genruntimeconfig.cache
+C:\Users\LUIZ\Documents\c#\projetos-c#\ConversorDeMoedas\obj\Debug\net6.0\ref\ConversorDeMoedas.dll
+C:\Users\LUIZ\Documents\c#\projetos-c#\ConversorDeMoedas\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LUIZ\Documents\c#\projetos-c#\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.csproj.CopyComplete

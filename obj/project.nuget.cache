@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7oqhkJsRpubtJVTkcIZuZwKhD2S2vJqKJdf6H4YPwlkWNASan5wDXAYW+9LrtjcieczmlvD9zPUDjm4B5xP+9A==",
+  "dgSpecHash": "/rKlhnolyoaD+C4Tz4CVlDffwLsTkxQAfGo42//hAAMFFcYS5wIXIShmsjLVbcSwPSoH7dEu4Xj38N5lHGdlpQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\LUIZ\\Documents\\c#\\projetos-c#\\ConversorDeMoedas\\ConversorDeMoedas.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\LUIZ\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
